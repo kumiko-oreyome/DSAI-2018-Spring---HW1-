@@ -1,4 +1,4 @@
-pandans 
+pandas 
 scipy
 numpy
 scikit-learn
