@@ -1,6 +1,6 @@
 # DSAI HW1-AutoTrading
 
-## Stragery
+## Strategy
 在這個作業我會使用到兩個regression model預測
 - 明日open price  --> model1
 - 未來三天的open price的平均(當作一個價格趨勢的指標) --> model2
