@@ -1,3 +1,4 @@
-anaconda 
-seaborn
+pandans 
+scipy
+numpy
 scikit-learn
